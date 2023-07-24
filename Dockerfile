@@ -1,4 +1,4 @@
-FROM dhsgggggg/a_:slim-buster
+FROM dhsgggggg/a_ :slim-buster
 
 RUN git clone https://github.com/dhsgggggg/g_.git /root/zthon
 
