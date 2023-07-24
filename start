@@ -89,11 +89,11 @@ _set_bot () {
     _run_cat_git
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
-    echo "⌭ جـاري بـدء تنصيـب زدثـــون ⌭"
+    echo "⌭ جـاري بـدء تنصيـب شيثون العرب ⌭"
     echo "
 
     "
-    python3 -m zthon
+    python3 -m chithon
 }
 
 _set_bot
